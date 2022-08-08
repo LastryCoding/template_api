@@ -1,6 +1,6 @@
-Il faut avoir Node.js v16.13.1 ou plus récent installé sur la machine.
-https://nodejs.dev/
+This is a light api template ready to use, dont forget to update packages.
+DBB: MongoDB
 
-Commandes:
+Commands:
 - npm install
 - npm start
